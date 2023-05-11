@@ -91,6 +91,6 @@ def main ():#line:53
         os .remove (O0OO0OO000OO00OO0 )#line:133
     except :#line:134
         pass #line:135
-    f .close ()#line:136
+    #line:136
 if __name__ =="__main__":#line:140
     main ()#line:141
